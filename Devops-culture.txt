@@ -1,0 +1,42 @@
+DevOps assumes a culture where collaboration among the development, operations, and business teams is considered a critical aspect of the journey
+
+Important benefits of DevOps are:
+
+1. Predictability: DevOps offers a significantly lower failure rate for new releases.
+2. Maintainability: It enables effortless recovery in the event of a new release crashing or disabling the application.
+3. Reproducibility: Versioning the builds or the code enables earlier versions to be restored as needed.
+4. Higher quality: Incorporating infrastructure issues improves application development quality.
+5. Time to market: Streamlined software delivery reduces time to market by 50%.
+6. Reduced risk: Incorporating security into the software lifecycle reduces defects across its lifecycle.
+7. Cost-efficiency: Driving cost-efficiency in software development pleases senior management.
+8. Resiliency: The software system is more stable, secure, and changes are auditable.
+9. Breaks larger codebase into manageable pieces: DevOps is based on the agile programming method, which supports breaking down larger codebases into smaller, more manageable chunks.
+
+## DevOps principles
+DevOps adoption has produced several principles that have evolved (and are still evolving). Most solution providers have developed their own variants.
+All these principles take a holistic approach to DevOps, and organizations of all sizes can adopt them.
+
+## Develop and test against a production-like environment
+The objective is to allow the development and quality assurance (QA) teams to develop and test against systems that behave like production systems, 
+so they can see how the application behaves and performs well before it is ready for deployment.
+The application should be exposed to production-like systems as early in the lifecycle as possible to address three major potential issues. 
+First, this permits the application to be tested in an environment that is close to the actual environment. Second, it allows application-delivery 
+processes to be tested and validated upfront. Third, it enables the operations team to verify early in the lifecycle how their environment will behave 
+when applications are deployed, thereby allowing them to create a finely tweaked, application-aware environment.
+
+## Deploying with repeatable, reliable processes
+This principle allows the development and operations teams to support an agile software development process throughout the lifecycle. Automation is 
+critical to creating processes that are iterative, reliable, and repeatable. Hence, the organization must create a delivery pipeline that enables continuous, 
+automated deployment and testing. Frequent deployments also allow teams to test the deployment processes, thereby lowering the risk of deployment failures during actual releases.
+
+## Monitor and validate operational quality
+Organizations are good at monitoring applications in production because they have tools that capture metrics and key performance indicators (KPIs) in real time. 
+This principle moves monitoring to early in the lifecycle, ensuring that automated testing monitors functional and nonfunctional attributes of the application 
+early in the process. Whenever an application is tested and deployed, quality metrics should be captured and analyzed. Monitoring tools provide early warning 
+about operational and quality issues in the landscape that may occur in production. These metrics should be gathered in a format that all business stakeholders 
+can understand and articulate.
+
+## Amplify feedback loops
+One objective of DevOps processes is to enable organizations to react and make changes more rapidly. In software delivery, this goal requires an organization to 
+get early feedback and then learn rapidly from every action it takes. This principle calls for organizations to create communication channels that allow stakeholders 
+to access and act on feedback. Development may act by adjusting its project plans or priorities. Production may act by enhancing production environments.
